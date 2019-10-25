@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/vinicius/github/AtomGit/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/vinicius/github/AtomGit/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/vinicius/github/AtomGit/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Folly/folly/Optional.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Folly/folly/Portability.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Folly/folly/CPortability.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Folly/folly/Traits.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Folly/folly/Utility.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/vinicius/github/AtomGit/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
