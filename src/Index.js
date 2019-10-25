@@ -20,7 +20,7 @@
        <Text style={styles.title}>Repositórios</Text>
        <Text style={styles.description}>Listando projetos da Atom Dynamics S. E.</Text>
 
-       <TouchableOpacity onPress={ ()=>{ Linking.openURL('https://github.com/tonymtk/atomgit')}}>
+       <TouchableOpacity onPress={ ()=>{ Linking.openURL('https://github.com/tonymtk/AtomGit')}}>
        <View style={styles.repoContainer}>
          <Text style={styles.repoTitle}>AtomGit</Text><Text style={styles.repoVersion}>v1.0</Text>
          <Text style={styles.repoDescription}>Aplicação móvel nativa multiplataforma projetada em React Native exclusivamente para ceder acesso rápido aos repositórios da empresa.</Text>
